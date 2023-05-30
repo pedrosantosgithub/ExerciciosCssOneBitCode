@@ -1,0 +1,12 @@
+
+ h1 + h3 {
+  border: 4px dashed black;
+}
+
+a[href='/recibo']{
+  color: orange;
+}
+
+li:nth-of-type(2){
+  color: purple;
+}
